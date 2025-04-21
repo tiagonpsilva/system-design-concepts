@@ -8,6 +8,7 @@ O design de sistemas é uma disciplina fundamental na engenharia de software que
 
 Este repositório contém explicações detalhadas para os seguintes conceitos:
 
+
 1. ⚖️ [Load Balancing (Balanceamento de Carga)](concepts/01-load-balancing.md)
 2. 🗄️ [Caching (Cache)](concepts/02-caching.md)
 3. 🧩 [Database Sharding (Fragmentação de Banco de Dados)](concepts/03-database-sharding.md)
@@ -52,10 +53,6 @@ Cada conceito tem seu próprio arquivo markdown com a seguinte estrutura:
 - **Melhores Práticas**: Recomendações de uso
 - **Referências**: Fontes para aprendizado adicional
 
-## Contribuições
-
-Contribuições são bem-vindas! Se você quiser melhorar as explicações, adicionar mais exemplos ou corrigir informações, fique à vontade para abrir um pull request.
-
 ## Referências Gerais
 
 - Kleppmann, M. (2017). Designing Data-Intensive Applications. O'Reilly Media.
@@ -66,6 +63,3 @@ Contribuições são bem-vindas! Se você quiser melhorar as explicações, adic
 - Vogels, W. (2009). Eventually Consistent. Communications of the ACM, 52(1), 40-44.
 - Gilbert, S., & Lynch, N. (2002). Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services. ACM SIGACT News, 33(2), 51-59.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
