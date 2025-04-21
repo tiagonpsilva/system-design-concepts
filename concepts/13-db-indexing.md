@@ -1,4 +1,4 @@
-# DB Indexing (Indexação de Banco de Dados)
+# 📖 Database Indexing (Indexação de Banco de Dados)
 
 ## Definição e Visão Geral
 

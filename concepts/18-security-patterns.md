@@ -1,4 +1,4 @@
-# Security Patterns (Padrões de Segurança)
+# 🛡️ Security Patterns (Padrões de Segurança)
 
 ## Definição e Visão Geral
 

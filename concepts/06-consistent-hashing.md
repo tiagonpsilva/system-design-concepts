@@ -1,4 +1,4 @@
-# Consistent Hashing (Hash Consistente)
+# ⭕ Consistent Hashing (Hash Consistente)
 
 ## Definição e Visão Geral
 

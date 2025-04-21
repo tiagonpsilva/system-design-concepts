@@ -1,4 +1,4 @@
-# Partitioning (Particionamento)
+# 🔪 Partitioning (Particionamento)
 
 ## Definição e Visão Geral
 

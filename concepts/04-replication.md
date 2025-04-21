@@ -1,4 +1,4 @@
-# Replication (Replicação)
+# 📑 Replication (Replicação)
 
 ## Definição e Visão Geral
 

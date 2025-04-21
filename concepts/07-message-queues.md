@@ -1,4 +1,4 @@
-# Message Queues (Filas de Mensagens)
+# ✉️ Message Queues (Filas de Mensagens)
 
 ## Definição e Visão Geral
 

@@ -1,4 +1,4 @@
-# Load Balancing (Balanceamento de Carga)
+# ⚖️ Load Balancing (Balanceamento de Carga)
 
 ## Definição e Visão Geral
 

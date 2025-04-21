@@ -1,4 +1,4 @@
-# Caching (Cache)
+# ⚡ Caching (Cache)
 
 ## Definição e Visão Geral
 

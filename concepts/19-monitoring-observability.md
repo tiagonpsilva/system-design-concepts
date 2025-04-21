@@ -1,4 +1,4 @@
-# Monitoring and Observability (Monitoramento e Observabilidade)
+# 👁️ Monitoring and Observability (Monitoramento e Observabilidade)
 
 ## Definição e Visão Geral
 

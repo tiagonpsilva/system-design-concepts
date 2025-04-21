@@ -1,4 +1,4 @@
-# Database Sharding (Fragmentação de Banco de Dados)
+# 🧩 Database Sharding (Fragmentação de Banco de Dados)
 
 ## Definição e Visão Geral
 

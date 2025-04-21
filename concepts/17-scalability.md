@@ -1,4 +1,4 @@
-# Scalability (Escalabilidade)
+# 📈 Scalability (Escalabilidade)
 
 ## Definição e Visão Geral
 

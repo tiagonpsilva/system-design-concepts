@@ -1,0 +1,1 @@
+# 📐 CAP Theorem (Teorema CAP) 

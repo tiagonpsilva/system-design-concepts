@@ -1,4 +1,4 @@
-# Service Discovery (Descoberta de Serviços)
+# 🔍 Service Discovery (Descoberta de Serviços)
 
 ## Definição e Visão Geral
 

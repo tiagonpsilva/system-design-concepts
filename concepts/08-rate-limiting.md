@@ -1,4 +1,4 @@
-# Rate Limiting (Limitação de Taxa)
+# 🚦 Rate Limiting (Limitação de Taxa)
 
 ## Definição e Visão Geral
 

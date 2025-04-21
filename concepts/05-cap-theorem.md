@@ -1,4 +1,4 @@
-# CAP Theorem (Teorema CAP)
+# 📐 CAP Theorem (Teorema CAP)
 
 ## Definição e Visão Geral
 

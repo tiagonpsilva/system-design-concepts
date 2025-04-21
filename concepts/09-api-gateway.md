@@ -1,4 +1,4 @@
-# API Gateway (Gateway de API)
+# 🚪 API Gateway (Gateway de API)
 
 ## Definição e Visão Geral
 

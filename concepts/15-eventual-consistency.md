@@ -1,4 +1,4 @@
-# Eventual Consistency (Consistência Eventual)
+# ⏰ Eventual Consistency (Consistência Eventual)
 
 ## Definição e Visão Geral
 

@@ -1,4 +1,4 @@
-# WebSockets
+# ↔️ WebSockets
 
 ## Definição e Visão Geral
 

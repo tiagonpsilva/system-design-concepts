@@ -1,4 +1,4 @@
-# CDNs (Content Delivery Networks)
+# 🌐 CDNs (Redes de Distribuição de Conteúdo)
 
 ## Definição e Visão Geral
 
